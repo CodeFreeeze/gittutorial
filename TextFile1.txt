@@ -2,3 +2,4 @@ SampleTExtFile here
 
 
 Another changes now here
+This is new Line from Git Tutorial
