@@ -6,4 +6,4 @@ This is new Line from Git Tutorial
 
 update this also
 Ok just added from second repo
-Bitbucket 1 Edit
+Bitbucket 1 Edit now edted
