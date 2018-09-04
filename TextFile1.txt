@@ -3,6 +3,6 @@ SampleTExtFile here
 
 Another changes now here
 This is new Line from Git Tutorial
-And This is the File commited from Git Tutorial 2!! :D 
 
 update this also
+Ok just added from second repo
